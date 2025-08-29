@@ -93,9 +93,9 @@ sueldoemmanuelalan-afk@github
 
 |                                                                     Alan's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Alan's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=react-dark&hide_border=true&area=true) |
-| ![Alan's github stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=algolia)              | 
-| ![Alan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=&theme=algolia)                    | 
+| ![Alan's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sueldoemmanuelalan-afk=react-dark&hide_border=true&area=true) |
+| ![Alan's github stats](https://github-readme-stats.vercel.app/api?username=sueldoemmanuelalan-afk&show_icons=true&theme=algolia)              | 
+| ![Alan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sueldoemmanuelalan-afk&theme=algolia)                    | 
     
 
 |                                                                                                      Alan's Stars                                                                                                       |                                                           Top Languages                                                           |      
