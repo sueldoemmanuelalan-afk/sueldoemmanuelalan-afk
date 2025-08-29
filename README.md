@@ -2,7 +2,7 @@
 Hi, I'm Alan Sueldo!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://gpvc.arturio.dev/I-am-vishalmaurya" alt="Profile views" align='right'/> <a href="https://github.com/sueldoemmanuelalan-afk/sueldoemmanuelalan-afk/"> </a> 
+ <img src="https://es.wallpapers.com/fondos-de-pantalla/unchico-ambicioso-de-anime-se-sienta-frente-a-una-computadora-trabajando-en-su-ultimo-proyecto-ou5br5ghm10ac87r.html" alt="Profile views" align='right'/> <a href="https://github.com/sueldoemmanuelalan-afk/sueldoemmanuelalan-afk/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -24,7 +24,7 @@ sueldoemmanuelalan-afk@github
 🌟 Main languages: Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
 💖 In a complicated relationship with Neural Networks
-🎵 Love metal, lofi, jazz and soft music
+🎵 Love metal, pop, jazz and soft music
 ```
 <hr>
 
@@ -95,9 +95,9 @@ sueldoemmanuelalan-afk@github
 
 |                                                                     Alan's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Vishal's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sueldoemmanuelalan-afk=react-dark&hide_border=true&area=true) |
-| ![Vishal's github stats](https://github-readme-stats.vercel.app/api?username=sueldoemmanuelalan-afk&show_icons=true&theme=algolia)              | 
-| ![Vishal's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sueldoemmanuelalan-afk&theme=algolia)                    | 
+| ![Alan's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sueldoemmanuelalan-afk=react-dark&hide_border=true&area=true) |
+| ![Alan's github stats](https://github-readme-stats.vercel.app/api?username=sueldoemmanuelalan-afk&show_icons=true&theme=algolia)              | 
+| ![Alan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sueldoemmanuelalan-afk&theme=algolia)                    | 
     
 
 |                                                                                                      Alan's Stars                                                                                                       |                                                           Top Languages                                                           |      
@@ -113,9 +113,9 @@ sueldoemmanuelalan-afk@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="sueldoemmanuelalan@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="https://sueldoemmanuelalan@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/vishalmaurya/">LinkedIn</a> to deploy your machine learning project on web.
+You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/-alan-emmanuel-sueldo-">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
@@ -137,19 +137,5 @@ Last Edited On: 29/08/2025
 
 
 
-## Hi there 👋
 
-<!--
-**sueldoemmanuelalan-afk/sueldoemmanuelalan-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
