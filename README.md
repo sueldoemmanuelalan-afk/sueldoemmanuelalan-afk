@@ -2,7 +2,8 @@
 Hi, I'm Alan Sueldo!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src="https://es.wallpapers.com/fondos-de-pantalla/unchico-ambicioso-de-anime-se-sienta-frente-a-una-computadora-trabajando-en-su-ultimo-proyecto-ou5br5ghm10ac87r.html" alt="Profile views" align='right'/> <a href="https://github.com/sueldoemmanuelalan-afk/sueldoemmanuelalan-afk/"> </a> 
+ <img src="https://github.com/user-attachments/assets/967b8cfd-ae53-4d9a-94c6-addc840657c2"
+  " alt="Profile views" align='right'/> <a href="https://github.com/sueldoemmanuelalan-afk/sueldoemmanuelalan-afk/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
