@@ -14,15 +14,15 @@ Hi, I'm Alan Sueldo!
 ```
 sueldoemmanuelalan-afk@github
 -------------------------
-💻 I am a self taught Full Stack Developer and a Machine Learning Developer
-📚 I have a Bachelors in Computer Science from the University of Mumbai at India
+💻 I want to be a self-taught Full Stack developer and a machine learning developer.
+📚 I am learning programming day by day
 📝 I have a strong interest in Data Science and Artificial Intelligence
 🔭 Working on Deep Learning & Machine Learning
 🌱 Learning about Computer Vision and Machine Learning stuff
-🌟 Main languages: Python, JavaScript
+🌟 Main languages: Html, CSS, Python, JavaScript
 🚩 Interested in Full Stack Machine Learning Application development
-💖 In a complicated relationship with Neural Networks
-🎵 Love metal, pop, jazz and soft music
+💖 I am in a loving relationship of 10 happy years
+🎵 I like metal, rock, pop among many other styles of music.
 ```
 <hr>
 
@@ -111,7 +111,7 @@ sueldoemmanuelalan-afk@github
 
 ## Let's Work on Your Project Together!
 
-If you have any questions about front-end web development, feel free to <a href="https://sueldoemmanuelalan@gmail.com">contact me through email</a> me.
+If you have any questions about front-end web development, feel free to <a href="https://sueldoemmanuelalan@gmail.com">contact me through email</a>.
 
 Or <a href="https://www.linkedin.com/in/-alan-emmanuel-sueldo-">LinkedIn</a> to deploy your machine learning project on web.
 
