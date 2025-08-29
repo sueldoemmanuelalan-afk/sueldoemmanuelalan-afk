@@ -1,9 +1,6 @@
 <h1 align="center">
 Hi, I'm Alan Sueldo!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
- <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
- <img src=""
-   alt="Profile views" align='right'/> <a href="https://github.com/sueldoemmanuelalan-afk/sueldoemmanuelalan-afk/"> </a> 
 <br/>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
@@ -96,9 +93,9 @@ sueldoemmanuelalan-afk@github
 
 |                                                                     Alan's Stats                                                                     |
 |:------------------------------------------------------------------------------------------------------------------------------------------------------:|
-| ![Alan's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=sueldoemmanuelalan-afk=react-dark&hide_border=true&area=true) |
-| ![Alan's github stats](https://github-readme-stats.vercel.app/api?username=sueldoemmanuelalan-afk&show_icons=true&theme=algolia)              | 
-| ![Alan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sueldoemmanuelalan-afk&theme=algolia)                    | 
+| ![Alan's 𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://activity-graph.herokuapp.com/graph?username=react-dark&hide_border=true&area=true) |
+| ![Alan's github stats](https://github-readme-stats.vercel.app/api?username=&show_icons=true&theme=algolia)              | 
+| ![Alan's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=&theme=algolia)                    | 
     
 
 |                                                                                                      Alan's Stars                                                                                                       |                                                           Top Languages                                                           |      
@@ -116,7 +113,7 @@ sueldoemmanuelalan-afk@github
 
 If you have any questions about front-end web development, feel free to <a href="https://sueldoemmanuelalan@gmail.com">contact me through email</a> me.
 
-You can hire me as a freelancer on <a href="https://www.fiverr.com/share/QDr4mw">Fiverr</a> or <a href="https://www.linkedin.com/in/-alan-emmanuel-sueldo-">LinkedIn</a> to deploy your machine learning project on web.
+Or <a href="https://www.linkedin.com/in/-alan-emmanuel-sueldo-">LinkedIn</a> to deploy your machine learning project on web.
 
   </td>
   <td width="50%" valign="top">
