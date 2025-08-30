@@ -1,7 +1,10 @@
+  [![Matrix SVG](https://raw.githubusercontent.com/sueldoemmanuelalan-afk/sueldoemmanuelalan-afk/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p>
+  <h1 align="center"><b>Hi, I'm Alan Sueldo! 👋</b></h1>
+</p>
+
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/sueldoemmanuelalan-afk
-sueldoemmanuelalan-afk/master/matrix.svg" alt="Matrix SVG" style="max-width: 100%;">
-Hi, I'm Alan Sueldo!
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"></h1>
 <br/>
 
@@ -90,7 +93,7 @@ sueldoemmanuelalan-afk@github
 </p>
 
 
-## GitHub Stats
+### 📊 &nbsp; STATS
 
 
 |                                                                     Alan's Stats                                                                     |
