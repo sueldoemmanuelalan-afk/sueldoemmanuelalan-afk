@@ -90,7 +90,7 @@ sueldoemmanuelalan-afk@github
 </p>
 
 
-### 📊 &nbsp; STATS
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 
 
 |                                                                     Alan's Stats                                                                     |
@@ -130,6 +130,10 @@ Or <a href="https://www.linkedin.com/in/-alan-emmanuel-sueldo-">LinkedIn</a> to 
   </td>
   </tr>
 </table>
+<br>
+<p align="center"">
+<img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
+</p>
 
 ------
 Credits: [sueldoemmanuelalan-afk](https://github.com/sueldoemmanuelalan-afk)
