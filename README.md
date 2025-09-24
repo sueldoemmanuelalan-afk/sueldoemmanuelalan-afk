@@ -206,19 +206,14 @@ O usa <a href="https://www.linkedin.com/in/-alan-emmanuel-sueldo-">LinkedIn</a> 
   <img src= https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white>
 </p>
 
-  💬 Social
+💬 Social
 
 <p>
   <img src= https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white>
-  <img src= https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white>
-  <img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white>
-  <img src= https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white>
-  <img src= https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white>
   <img src= https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white>
   <img src= https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white>
   <img src= https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white>
   <img src= https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white>
-  <img src= https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
   <img src= https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white>
   <img src= https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white>
   <img src= https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white>
@@ -247,6 +242,19 @@ O usa <a href="https://www.linkedin.com/in/-alan-emmanuel-sueldo-">LinkedIn</a> 
  </tr>
 </table>
 
+<summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center"
+                width="28" /> To connect with me</h2></summary>
+
+  <p>
+    <img src= https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
+    <a href="https://www.linkedin.com/in/-alan-emmanuel-sueldo-"><img src= https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white></a>
+    <a href="https://www.instagram.com/alahnemmanuel"><img src= https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white></a>
+    <a href="https://www.sueldoemmanuelalan@gmail.com"><img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
+    <a href="https://www.facebook.com/alahnemmanuel"><img src= https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white></a>
+    
+  </p>   
+  <br>
+ <p align = "center"><a href="https://www.buymeacoffee.com/sueldoemmanuelalan-afk"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="45" width="170" alt="alan" /></a></p><br><br>
 
 <br>
 <p align="center"">
