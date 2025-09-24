@@ -51,7 +51,7 @@ sueldoemmanuelalan-afk@github
       
 ## Trabajemos juntos!
 
-Si tienes alguna pregunta sobre mis trabajos, no dudes en <a href="https://sueldoemmanuelalan@gmail.com">contactarme por correo electrónico. </a>.
+Si tienes alguna pregunta sobre mis trabajos, no dudes en <a href="#">contactarme por correo electrónico. </a>.
 
 O usa <a href="https://www.linkedin.com/in/-alan-emmanuel-sueldo-">LinkedIn</a> para implementar tu proyecto de aprendizaje automático en la web.
 
@@ -249,7 +249,7 @@ O usa <a href="https://www.linkedin.com/in/-alan-emmanuel-sueldo-">LinkedIn</a> 
     <img src= https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white>
     <a href="https://www.linkedin.com/in/-alan-emmanuel-sueldo-"><img src= https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white></a>
     <a href="https://www.instagram.com/alahnemmanuel"><img src= https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white></a>
-    <a href="https://www.sueldoemmanuelalan@gmail.com"><img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
+    <a href="#"><img src= https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a>
     <a href="https://www.facebook.com/alahnemmanuel"><img src= https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white></a>
     
   </p>   
